@@ -3,15 +3,15 @@
 **Embedded systems & PCB design engineer** — I ship real hardware from cheap parts:
 schematic → PCB → firmware → app → Linux server, end to end.
 
-- 🔧 Designing PCBs that actually get **manufactured and sold** (class-D amplifiers, LED lighting boards, ESP32 boards)
-- 🧠 Edge AI & computer vision on cheap ARM hardware (OpenCV on a $30 Linux TV box)
+- 🔧 Designing PCBs that actually get **manufactured and sold** 
+- 🧠 Edge AI & computer vision on cheap ARM hardware (OpenCV on a linux device)
 - 📡 ESP32 / Arduino firmware, IoT, sensors, MQTT
-- 🐧 Turning repurposed hardware into useful products (Android TV box → Armbian Linux edge server)
+- 🐧 Turning repurposed hardware into useful products (TV box → Armbian Linux edge server)
 - 🌍 **Open to remote work.** I work async and communicate in writing.
 
 ### Featured
 
-- **[Face-Recognition Attendance on a $30 Linux TV Box](https://github.com/dickipramudya/face-attendance)** — offline, multi-face, Python + OpenCV (YuNet + SFace), FastAPI dashboard.
+- **[Face-Recognition Attendance on a linux device](https://github.com/dickipramudya/face-attendance)** — offline, multi-face, Python + OpenCV (YuNet + SFace), FastAPI dashboard.
 - **BloomGuard** — predictive maintenance for dragon-fruit grow lighting (Nordic / Hackster).
 - More hardware & firmware work on my [Upwork profile](https://www.upwork.com/freelancers/~017cd2902487b61246).
 
